@@ -6,5 +6,5 @@ if(person == null || person =="")
 else {
   txt = "My name is " + person;
 }
-document.getElementById("demo").innerHTML =  txt;
+document.getElementById("demo").innerHTML = txt;
 }
